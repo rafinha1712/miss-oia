@@ -28,24 +28,25 @@ const perguntas = [
                     afirmacao: "Você acredita na força do convívio, do diálogo e da empatia. Valoriza o apoio coletivo e o bem-estar social no dia a dia."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilida ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Aumentar o número de psicólogos e psiquiatras nos postos para atender cada pessoa de forma individual e personalizada."
+",
+                    afirmacao: "Você valoriza a privacidade, a atenção técnica e o acompanhamento especializado. Acredita no cuidado pontual de cada caso."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Qual é a medida mais urgente para melhorar o sistema de saúde pública no país?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Redirecionar a maior parte dos recursos para a atenção primária e prevenção (postos de saúde, campanhas de vacinação e acompanhamento familiar), evitando que as pessoas adoeçam gravemente.",
+                    afirmacao: "Você prioriza a educação e o cuidado contínuo para evitar doenças e não sobrecarregar o sistema de saúde a longo prazo."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Concentrar os investimentos na expansão da rede hospitalar e de urgência (UTIs, leitos e exames de alta complexidade), garantindo atendimento rápido e eficiente para quem já está em situação crítica.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Você prioriza o atendimento hospitalar imediato e a infraestrutura avançada para salvar vidas em situações críticas."
                 }    
                
             ]
