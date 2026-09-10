@@ -26,6 +26,22 @@ h1 {
   color: var(--cor-destaque);
 }
 
+.caixa-perguntas {
+  color: var(--cor-texto);
+}
+
+.caixa-alternativas {
+  color: var(--cor-texto);
+}
+
+.caixa-resultado {
+  color: var(--cor-texto);
+}
+
+.texto-resultado {
+  color: var(--cor-texto);
+}
+
 button {
   background-color: var(--cor-principal);
   color: var(--cor-destaque);
