@@ -82,10 +82,14 @@ function mostraAlternativas(){
 }
 
 function respostaSelecionada(opcaoSelecionada) {
-    const afirmacoes = opcaoSelecionada.afirmacao;
+    const afirmacoes = aleatorio (opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     atual++
     mostraPergunta();
+}
+function aleatorio(lista) {
+const posicao = Math.floor(Math.random()* lista.length);
+return lista[posicao];
 }
 function mostraResultado(){
     caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
